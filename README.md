@@ -393,6 +393,7 @@ Kemudian, dua subclass `nilaiAkhir80` dan `nilaiAkhir100` mewarisi kelas `Nilai`
 **Output :** <br>
 
 ![image](https://github.com/user-attachments/assets/c612d32e-f383-45aa-84f7-fc00074396c5) 
+
 ![image](https://github.com/user-attachments/assets/a493e0ed-5fd2-41f1-82fa-2d388b3d8ad9)
 
 **#Pilih Menu Mahasiswa** <br>
@@ -401,10 +402,15 @@ Kemudian, dua subclass `nilaiAkhir80` dan `nilaiAkhir100` mewarisi kelas `Nilai`
 
 ![image](https://github.com/user-attachments/assets/ab4fc52c-c09c-434d-9ec2-8bee9d119d31)
 
+**#Pilih Menu Data Nilai Mahasiswa di Atas 80**
+
 **Output :** <br>
 
   - Data nilai mahasiswa di atas 80. <br>
 ![image](https://github.com/user-attachments/assets/3f65b762-f503-4b64-85e1-ca913a93911e)
 
+**#Pilih Menu Data Nilai Mahasiswa di Bawah 80**
+
+**Output :**
   - Data nilai mahasiswa di bawah 80. <br>
 ![image](https://github.com/user-attachments/assets/a948bbba-fefa-424f-a465-a0a8a8902153)
